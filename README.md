@@ -22,7 +22,7 @@ This project is a Python-based chess game where you can play against an AI oppon
 
 Clone the repository:
 
-git clone https://github.com/yourusername/chess-ai-game.git
+git clone https://github.com/ZootZoot-25/Chess-Game.git
 cd chess-ai-game
 
 ### Install Required Libraries
